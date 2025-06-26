@@ -2,14 +2,14 @@
   background-color: #CCCDDD;
 }
 
-h1 {
-  color: #00E51E;
-}
-
-h3 {
-  color: #00E51E;
-}
-
 p {
   color: #FFFFFF;
+}
+
+.warning-banner-main {
+  color: #00E51E;
+}
+
+.warning-banner-sub {
+  color: #00E51E;
 }
