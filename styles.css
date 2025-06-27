@@ -1,15 +1,10 @@
 .warning-banner-main {
+  background-color: red;
   color: #00E51E;
+  padding: 20px;
+  border: 5px solid #de1252;
 }
 
 .warning-banner-sub {
   color: #00E51E;
-}
-
-.warning-banner-main.box-one {
-  background-color: red;
-}
-
-.warning-banner-sub.box-two {
-  background-color: yellow;
 }
