@@ -14,10 +14,10 @@ p {
   color: #00E51E;
 }
 
-.box-one {
+.warning-banner-main.box-one {
   background-color: red;
 }
 
-.box-two {
+.warning-banner-sub.box-two {
   background-color: yellow;
 }
