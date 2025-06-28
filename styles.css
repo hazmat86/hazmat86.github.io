@@ -6,11 +6,25 @@ body {
   background-color: gray;
 }
 
+#warning-message {
+  color:lime;
+}
+
 .work-in-progress-warning {
   background-color: red;
   margin: 5px;
 }
 
-#warning-message {
-  color:lime;
+.main-content-toc {
+
+}
+
+.main-content-toc.list-actual-outer {
+  padding: 5px;
+  border: 3px solid #ff0000; 
+  margin: 10px;
+}
+
+.main-content-toc.list-actual-inner {
+
 }
