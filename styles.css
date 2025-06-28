@@ -15,6 +15,10 @@ body {
   margin: 5px;
 }
 
+.main-content-container {
+  display: flex;
+}
+
 .main-content-toc.header {
   text-decoration: underline;
 }
@@ -24,3 +28,4 @@ body {
   border: 3px solid #ff0000; 
   margin: 10px;
 }
+
