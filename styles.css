@@ -34,3 +34,19 @@ body {
 .main-content-about.header {
   text-decoration: underline;
 }
+
+.blog-article-placeholder-section {
+  display: flex;
+}
+
+.blog-article-placeholder-section-image {
+
+}
+
+.blog-article-placeholder-title-link {
+
+}
+
+.blog-article-placeholder-section-article {
+
+}
