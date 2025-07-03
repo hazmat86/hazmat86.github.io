@@ -19,7 +19,7 @@ body {
   display: flex;
 }
 
-.main-content-toc-container {
+.main-content-soon-container {
   flex: 1;
 }
 
@@ -27,7 +27,7 @@ body {
   flex: 1;
 }
 
-.main-content-toc.header {
+.main-content-soon.header {
   text-decoration: underline;
 }
 
