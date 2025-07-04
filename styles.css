@@ -35,22 +35,34 @@ body {
   text-decoration: underline;
 }
 
+.blog-section {
+  display: flex;
+  flex-direction: column;
+}
+
+.blog-nav-title-bar {
+  text-align: center;
+}
+
 .blog-article-placeholder-section {
   display: flex;
+  flex-direction: row;
 }
+
 
 .blog-article-placeholder-section-image {
 
 }
 
-.blog-article-placeholer-container {
+.blog-article-placeholder-container {
   display: flex;
+  flex-direction: column;
 }
 
 .blog-article-placeholder-title-link {
-
+  text-align: right;
 }
 
 .blog-article-placeholder-section-article {
-
+  text-align: right;
 }
