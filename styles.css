@@ -43,6 +43,10 @@ body {
 
 }
 
+.blog-article-placeholer-container {
+  display: flex;
+}
+
 .blog-article-placeholder-title-link {
 
 }
