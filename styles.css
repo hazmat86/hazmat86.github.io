@@ -42,27 +42,31 @@ body {
 
 .blog-nav-title-bar {
   text-align: center;
+  flex: auto;
 }
 
 .blog-article-placeholder-section {
+  flex: auto;
   display: flex;
   flex-direction: row;
+  justify-content: space-around;
 }
 
 
 .blog-article-placeholder-section-image {
-
+  flex: auto;
 }
 
 .blog-article-placeholder-container {
+  flex: auto;
   display: flex;
   flex-direction: column;
 }
 
 .blog-article-placeholder-title-link {
-  text-align: right;
+  text-align: center;
 }
 
 .blog-article-placeholder-section-article {
-  text-align: right;
+  text-align: center;
 }
