@@ -29,10 +29,12 @@ body {
 
 .main-content-soon.header {
   text-decoration: underline;
+  text-align: center;
 }
 
 .main-content-about.header {
   text-decoration: underline;
+  text-align: center;
 }
 
 .blog-section {
