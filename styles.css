@@ -45,7 +45,7 @@ body {
   flex: auto;
 }
 
-.blog-article-placeholder-section {
+.blog-article-section {
   flex: auto;
   display: flex;
   flex-direction: row;
@@ -53,20 +53,22 @@ body {
 }
 
 
-.blog-article-placeholder-section-image {
+.blog-article-section-image {
   flex: auto;
 }
 
-.blog-article-placeholder-container {
+.blog-article-container {
   flex: auto;
   display: flex;
   flex-direction: column;
 }
 
-.blog-article-placeholder-title-link {
+.blog-article-title-link {
   text-align: center;
+  font-size: 24px;
 }
 
-.blog-article-placeholder-section-article {
+.blog-article-section-article {
   text-align: center;
+  font-size: 20px;
 }
